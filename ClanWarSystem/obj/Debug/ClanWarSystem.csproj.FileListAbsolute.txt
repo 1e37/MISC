@@ -1,6 +1,0 @@
-c:\users\david\documents\visual studio 2015\Projects\ClanWarSystem\ClanWarSystem\bin\Debug\ClanWarSystem.dll
-c:\users\david\documents\visual studio 2015\Projects\ClanWarSystem\ClanWarSystem\bin\Debug\ClanWarSystem.pdb
-c:\users\david\documents\visual studio 2015\Projects\ClanWarSystem\ClanWarSystem\bin\Debug\InfinityScript.dll
-c:\users\david\documents\visual studio 2015\Projects\ClanWarSystem\ClanWarSystem\obj\Debug\ClanWarSystem.dll
-c:\users\david\documents\visual studio 2015\Projects\ClanWarSystem\ClanWarSystem\obj\Debug\ClanWarSystem.pdb
-c:\users\david\documents\visual studio 2015\Projects\ClanWarSystem\ClanWarSystem\obj\Debug\ClanWarSystem.csprojResolveAssemblyReference.cache
